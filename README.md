@@ -9,3 +9,4 @@ https://guides.github.com/introduction/flow/
 
 For Git:
 https://www.codeschool.com/learn/git
+Git cheat sheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
